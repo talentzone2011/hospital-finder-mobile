@@ -1,0 +1,26 @@
+body {
+	background-image: url(images/fondo.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#comboBox{
+	padding-top: 145px;
+}
+select{
+	background-image:url(images/fondo.jpg);
+}
+#tablaResultados{
+	padding-top: 80px;
+	text-align:center;
+	border-bottom-width:thick;
+}
+td{
+	border-bottom-width:thin;
+	border-bottom-style:groove;
+	font-size:13px;
+}
+#results{
+	background-image: url(images/fondo2.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
